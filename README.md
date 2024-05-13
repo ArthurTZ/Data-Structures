@@ -1,4 +1,4 @@
-# Data-Structures
+# Data-Structures and Algorithm
 data structures in Python
 
 ## - Insertion_sort:
